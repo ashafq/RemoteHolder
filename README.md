@@ -5,7 +5,7 @@ Holds Sony and Apple TV remotes in a neat holder
 
 ## Features
 
-- Neatly holds Sony and Apple TV remotes togeter
+- Neatly holds Sony and Apple TV remotes together
 - Durable and stylish design
 
 ## Files
