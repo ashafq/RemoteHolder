@@ -14,7 +14,7 @@ Holds Sony and Apple TV remotes in a neat holder
 - `PRINT3/REMOTE HOLDER.zip`: Compressed 3D printing object files
 - `PRINT3/REMOTE HOLDER.glb`: 3D object file in GLB format
 
-## Usaged
+## Usage
 
 Place your Sony and Apple TV remotes in the holder to keep them organized and easily accessible.
 
